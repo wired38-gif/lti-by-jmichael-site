@@ -4,8 +4,8 @@
   "description": "LTI by JMichael — Creative Technology Studio",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "build": "echo 'Static site — no build required'"
+    "build": "echo 'Static site — no build required'",
+    "start": "node server.js"
   },
   "engines": {
     "node": ">=18.0.0"
